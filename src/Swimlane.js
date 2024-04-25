@@ -1,5 +1,6 @@
 import React from 'react';
 import Card from './Card';
+
 import './Swimlane.css';
 
 export default class Swimlane extends React.Component {
